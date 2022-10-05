@@ -1,0 +1,7 @@
+tmp/
+.air.toml
+task.md
+.env
+*_mock.go
+cover.out*
+coverage.out*
